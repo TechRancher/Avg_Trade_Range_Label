@@ -1,0 +1,2 @@
+# Average Trade Range Label
+
