@@ -1,5 +1,7 @@
 # Average Trading Range, Average Day Range, Volume, Volatility
-# By: TechRancher
+# Author: TechRancher
+# Follow me on github:
+# https://github.com/TechRancher
 # This code will display the average trading price range over the day,
 # it also gives you the then percent of ATR,
 # along with the average day range for the day
@@ -7,6 +9,8 @@
 # I added active volume with the volatility of the trade.
 
 # User Input
+#hint AverageType: You can choose from many different Averages but be aware that this will also affect how the chart works.
+#hint Length: The length of five will be the best to give you the best results.
 input AverageType = AverageType.WILDERS;
 input length = 5;
 
