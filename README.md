@@ -3,7 +3,7 @@
 **Discloser** *In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility.* 
 
 This script is written for Thinkorswim :registered: platform (TOS). This script will display information about the ticker Average Trade Range, including Daily Price gap, and percent, along with Average Daily Price Range, and percent. I also include with this label the trading Volume and Volatility.  
-You can use this code: https://tos.mx/52SBgBY  
+You can use this code: https://tos.mx/cZuMrVK 
 
 ## Use  
 You can use this information to help you decide if this stock is a good fit for your trading style.  
