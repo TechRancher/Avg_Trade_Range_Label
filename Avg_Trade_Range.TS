@@ -7,10 +7,11 @@
 # I added active volume with the volatility of the trade.
 
 # User Input
-input Avg = AverageType.WILDERS;
+input AverageType = AverageType.WILDERS;
 input length = 5;
 
 # Define Varaibles
+def Avg = AverageType;
 def lngth = 9;
 def Hi = high(period = AggregationPeriod.DAY);
 def Lo = low(period = AggregationPeriod.DAY);
